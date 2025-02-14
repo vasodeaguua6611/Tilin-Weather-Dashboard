@@ -39,4 +39,5 @@ def get_weather():
     else:
         return render_template('index.html')
 if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=os.environ.get('PORT', 5000))
     app.run(debug=True)
