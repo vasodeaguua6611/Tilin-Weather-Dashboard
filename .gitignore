@@ -1,0 +1,56 @@
+# .gitignore for Tilin Clima Dashboard
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyre
+*.pyz
+*.pyw
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Environment Files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+*.env*
+
+# Local Development
+instance/
+.webassets-cache
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
