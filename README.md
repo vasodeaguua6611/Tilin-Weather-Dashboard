@@ -83,7 +83,9 @@ peppy (diablo)
 
 akoza (UI/UX Design)
 
-License 📄
+
+
+## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Note: This is a basic educational project intended for GitHub portfolio purposes. Feel free to fork and modify according to your needs!
