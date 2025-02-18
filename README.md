@@ -51,7 +51,11 @@ pip install -r requirements.txt
 5. Run application:
 python app.py
 
-Usage 🚀
+
+
+
+```
+## Usage 🚀
 Enter a city name in the search box
 
 Click "Get Clima"
@@ -69,7 +73,8 @@ Current weather data endpoint
 
 Metric units support
 
-Contributors 👥
+
+# Contributors 👥
 TilinSolutions Team:
 
 xuyaxaki (Backend Development)
@@ -82,4 +87,3 @@ License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Note: This is a basic educational project intended for GitHub portfolio purposes. Feel free to fork and modify according to your needs!
-```
